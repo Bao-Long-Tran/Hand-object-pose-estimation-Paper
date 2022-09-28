@@ -1,0 +1,344 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{cai2022ove6d}
+Dingding Cai, Janne Heikkil{\"a}, and Esa Rahtu.
+\newblock Ove6d: Object viewpoint encoding for depth-based 6d object pose
+  estimation.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 6803--6813, 2022.
+
+\bibitem{cai20203d}
+Yujun Cai, Liuhao Ge, Jianfei Cai, Nadia~Magnenat Thalmann, and Junsong Yuan.
+\newblock 3d hand pose estimation using synthetic data and weakly labeled rgb
+  images.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  43(11):3739--3753, 2020.
+
+\bibitem{chen2021global}
+Sihan Chen, Xinxin Zhu, Wei Liu, Xingjian He, and Jing Liu.
+\newblock Global-local propagation network for rgb-d semantic segmentation.
+\newblock {\em arXiv preprint arXiv:2101.10801}, 2021.
+
+\bibitem{chen2020bi}
+Xiaokang Chen, Kwan-Yee Lin, Jingbo Wang, Wayne Wu, Chen Qian, Hongsheng Li,
+  and Gang Zeng.
+\newblock Bi-directional cross-modality feature propagation with
+  separation-and-aggregation gate for rgb-d semantic segmentation.
+\newblock In {\em European Conference on Computer Vision}, pages 561--577.
+  Springer, 2020.
+
+\bibitem{choi2017robust}
+Chiho Choi, Sang Ho~Yoon, Chin-Ning Chen, and Karthik Ramani.
+\newblock Robust hand pose estimation during the interaction with an unknown
+  object.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 3123--3132, 2017.
+
+\bibitem{deng2017hand3d}
+Xiaoming Deng, Shuo Yang, Yinda Zhang, Ping Tan, Liang Chang, and Hongan Wang.
+\newblock Hand3d: Hand pose estimation using 3d neural network.
+\newblock {\em arXiv preprint arXiv:1704.02224}, 2017.
+
+\bibitem{ding2019votenet}
+Zhipeng Ding, Xu Han, and Marc Niethammer.
+\newblock Votenet: A deep learning label fusion method for multi-atlas
+  segmentation.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 202--210. Springer, 2019.
+
+\bibitem{doosti2020hope}
+Bardia Doosti, Shujon Naha, Majid Mirbagheri, and David~J Crandall.
+\newblock Hope-net: A graph-based model for hand-object pose estimation.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 6608--6617, 2020.
+
+\bibitem{duda1972textordfeminineuse}
+RO Duda and PE Hart.
+\newblock {\textordfeminine}use of the hough transform to detect lines and
+  curves in pictures, {\textordmasculine} comm.
+\newblock {\em ACM}, 1972.
+
+\bibitem{gao2019variational}
+Yafei Gao, Yida Wang, Pietro Falco, Nassir Navab, and Federico Tombari.
+\newblock Variational object-aware 3-d hand pose from a single rgb image.
+\newblock {\em IEEE Robotics and Automation Letters}, 4(4):4239--4246, 2019.
+
+\bibitem{ge20173d}
+Liuhao Ge, Hui Liang, Junsong Yuan, and Daniel Thalmann.
+\newblock 3d convolutional neural networks for efficient and robust hand pose
+  estimation from single depth images.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1991--2000, 2017.
+
+\bibitem{goudie20173d}
+Duncan Goudie and Aphrodite Galata.
+\newblock 3d hand-object pose estimation from depth with convolutional neural
+  networks.
+\newblock In {\em 2017 12th IEEE International Conference on Automatic Face \&
+  Gesture Recognition (FG 2017)}, pages 406--413. IEEE, 2017.
+
+\bibitem{hasson2020leveraging}
+Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, and
+  Cordelia Schmid.
+\newblock Leveraging photometric consistency over time for sparsely supervised
+  hand-object reconstruction.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 571--580, 2020.
+
+\bibitem{hasson2021towards}
+Yana Hasson, G{\"u}l Varol, Cordelia Schmid, and Ivan Laptev.
+\newblock Towards unconstrained joint hand-object reconstruction from rgb
+  videos.
+\newblock In {\em 2021 International Conference on 3D Vision (3DV)}, pages
+  659--668. IEEE, 2021.
+
+\bibitem{hasson2019learning}
+Yana Hasson, Gul Varol, Dimitrios Tzionas, Igor Kalevatykh, Michael~J Black,
+  Ivan Laptev, and Cordelia Schmid.
+\newblock Learning joint reconstruction of hands and manipulated objects.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 11807--11816, 2019.
+
+\bibitem{hoang2022voting}
+Dinh-Cuong Hoang, Johannes~A Stork, and Todor Stoyanov.
+\newblock Voting and attention-based pose relation learning for object pose
+  estimation from 3d point clouds.
+\newblock {\em IEEE Robotics and Automation Letters}, 7(4):8980--8987, 2022.
+
+\bibitem{hough1959machine}
+Paul~VC Hough.
+\newblock Machine analysis of bubble chamber pictures.
+\newblock In {\em Proc. of the International Conference on High Energy
+  Accelerators and Instrumentation, Sept. 1959}, pages 554--556, 1959.
+
+\bibitem{iqbal2018hand}
+Umar Iqbal, Pavlo Molchanov, Thomas Breuel~Juergen Gall, and Jan Kautz.
+\newblock Hand pose estimation via latent 2.5 d heatmap regression.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 118--134, 2018.
+
+\bibitem{kazakos2018fusion}
+Evangelos Kazakos, Christophoros Nikou, and Ioannis~A Kakadiaris.
+\newblock On the fusion of rgb and depth information for hand pose estimation.
+\newblock In {\em 2018 25th IEEE International Conference on Image Processing
+  (ICIP)}, pages 868--872. IEEE, 2018.
+
+\bibitem{kehl2016deep}
+Wadim Kehl, Fausto Milletari, Federico Tombari, Slobodan Ilic, and Nassir
+  Navab.
+\newblock Deep learning of local rgb-d patches for 3d object detection and 6d
+  pose estimation.
+\newblock In {\em European conference on computer vision}, pages 205--220.
+  Springer, 2016.
+
+\bibitem{kyriazis2013physically}
+Nikolaos Kyriazis and Antonis Argyros.
+\newblock Physically plausible 3d scene tracking: The single actor hypothesis.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 9--16, 2013.
+
+\bibitem{li2020category}
+Xiaolong Li, He Wang, Li Yi, Leonidas~J Guibas, A~Lynn Abbott, and Shuran Song.
+\newblock Category-level articulated object pose estimation.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 3706--3715, 2020.
+
+\bibitem{liu2021semi}
+Shaowei Liu, Hanwen Jiang, Jiarui Xu, Sifei Liu, and Xiaolong Wang.
+\newblock Semi-supervised 3d hand-object poses estimation with interactions in
+  time.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 14687--14697, 2021.
+
+\bibitem{lu2021understanding}
+Yao Lu and Walterio~W Mayol-Cuevas.
+\newblock Understanding egocentric hand-object interactions from hand pose
+  estimation.
+\newblock {\em arXiv preprint arXiv:2109.14657}, 2021.
+
+\bibitem{madadi2017end}
+Meysam Madadi, Sergio Escalera, Xavier Bar{\'o}, and Jordi Gonzalez.
+\newblock End-to-end global to local cnn learning for hand pose recovery in
+  depth data.
+\newblock {\em arXiv preprint arXiv:1705.09606}, 2017.
+
+\bibitem{moon2018v2v}
+Gyeongsik Moon, Ju~Yong Chang, and Kyoung~Mu Lee.
+\newblock V2v-posenet: Voxel-to-voxel prediction network for accurate 3d hand
+  and human pose estimation from a single depth map.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern Recognition}, pages 5079--5088, 2018.
+
+\bibitem{oberweger2017deepprior++}
+Markus Oberweger and Vincent Lepetit.
+\newblock Deepprior++: Improving fast and accurate 3d hand pose estimation.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision Workshops}, pages 585--594, 2017.
+
+\bibitem{oberweger2019generalized}
+Markus Oberweger, Paul Wohlhart, and Vincent Lepetit.
+\newblock Generalized feedback loop for joint hand-object pose estimation.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  42(8):1898--1912, 2019.
+
+\bibitem{oikonomidis2011full}
+Iason Oikonomidis, Nikolaos Kyriazis, and Antonis~A Argyros.
+\newblock Full dof tracking of a hand interacting with an object by modeling
+  occlusions and physical constraints.
+\newblock In {\em 2011 International Conference on Computer Vision}, pages
+  2088--2095. IEEE, 2011.
+
+\bibitem{park2017rdfnet}
+Seong-Jin Park, Ki-Sang Hong, and Seungyong Lee.
+\newblock Rdfnet: Rgb-d multi-level residual feature fusion for indoor semantic
+  segmentation.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 4980--4989, 2017.
+
+\bibitem{qi2018frustum}
+Charles~R Qi, Wei Liu, Chenxia Wu, Hao Su, and Leonidas~J Guibas.
+\newblock Frustum pointnets for 3d object detection from rgb-d data.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 918--927, 2018.
+
+\bibitem{qi2017pointnet++}
+Charles~Ruizhongtai Qi, Li Yi, Hao Su, and Leonidas~J Guibas.
+\newblock Pointnet++: Deep hierarchical feature learning on point sets in a
+  metric space.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{saadi2021optimizing}
+Lounes Saadi, Bassem Besbes, Sebastien Kramm, and Abdelaziz Bensrhair.
+\newblock Optimizing rgb-d fusion for accurate 6dof pose estimation.
+\newblock {\em IEEE Robotics and Automation Letters}, 6(2):2413--2420, 2021.
+
+\bibitem{schwarz2015rgb}
+Max Schwarz, Hannes Schulz, and Sven Behnke.
+\newblock Rgb-d object recognition and pose estimation based on pre-trained
+  convolutional neural network features.
+\newblock In {\em 2015 IEEE international conference on robotics and automation
+  (ICRA)}, pages 1329--1335. IEEE, 2015.
+
+\bibitem{silberberg1984iterative}
+Teresa~M Silberberg, Larry Davis, and David Harwood.
+\newblock An iterative hough procedure for three-dimensional object
+  recognition.
+\newblock {\em Pattern Recognition}, 17(6):621--629, 1984.
+
+\bibitem{tekin2019h+}
+Bugra Tekin, Federica Bogo, and Marc Pollefeys.
+\newblock H+ o: Unified egocentric recognition of 3d hand-object poses and
+  interactions.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 4511--4520, 2019.
+
+\bibitem{tian2020robust}
+Meng Tian, Liang Pan, Marcelo~H Ang, and Gim~Hee Lee.
+\newblock Robust 6d object pose estimation by learning rgb-d features.
+\newblock In {\em 2020 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 6218--6224. IEEE, 2020.
+
+\bibitem{tombari2010object}
+Federico Tombari and Luigi Di~Stefano.
+\newblock Object recognition in 3d scenes with occlusions and clutter by hough
+  voting.
+\newblock In {\em 2010 Fourth Pacific-Rim Symposium on Image and Video
+  Technology}, pages 349--355. IEEE, 2010.
+
+\bibitem{tremblay2018deep}
+Jonathan Tremblay, Thang To, Balakumar Sundaralingam, Yu Xiang, Dieter Fox, and
+  Stan Birchfield.
+\newblock Deep object pose estimation for semantic robotic grasping of
+  household objects.
+\newblock {\em arXiv preprint arXiv:1809.10790}, 2018.
+
+\bibitem{tse2022collaborative}
+Tze Ho~Elden Tse, Kwang~In Kim, Ales Leonardis, and Hyung~Jin Chang.
+\newblock Collaborative learning for hand and object reconstruction with
+  attention-guided graph convolution.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 1664--1674, 2022.
+
+\bibitem{tsoli2018joint}
+Aggeliki Tsoli and Antonis~A Argyros.
+\newblock Joint 3d tracking of a deformable object in interaction with a hand.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 484--500, 2018.
+
+\bibitem{wang2021brief}
+Changshuo Wang, Chen Wang, Weijun Li, and Haining Wang.
+\newblock A brief survey on rgb-d semantic segmentation using deep learning.
+\newblock {\em Displays}, 70:102080, 2021.
+
+\bibitem{wang2019densefusion}
+Chen Wang, Danfei Xu, Yuke Zhu, Roberto Mart{\'\i}n-Mart{\'\i}n, Cewu Lu, Li
+  Fei-Fei, and Silvio Savarese.
+\newblock Densefusion: 6d object pose estimation by iterative dense fusion.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 3343--3352, 2019.
+
+\bibitem{wang2020learning}
+Tiancai Wang, Tong Yang, Martin Danelljan, Fahad~Shahbaz Khan, Xiangyu Zhang,
+  and Jian Sun.
+\newblock Learning human-object interaction detection using interaction points.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 4116--4125, 2020.
+
+\bibitem{wu2021vote}
+Yangzheng Wu, Mohsen Zand, Ali Etemad, and Michael Greenspan.
+\newblock Vote from the center: 6 dof pose estimation in rgb-d images by radial
+  keypoint voting.
+\newblock {\em arXiv preprint arXiv:2104.02527}, 2021.
+
+\bibitem{xiang2017posecnn}
+Yu Xiang, Tanner Schmidt, Venkatraman Narayanan, and Dieter Fox.
+\newblock Posecnn: A convolutional neural network for 6d object pose estimation
+  in cluttered scenes.
+\newblock {\em arXiv preprint arXiv:1711.00199}, 2017.
+
+\bibitem{xiong2019a2j}
+Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey~Tianyi Zhou,
+  and Junsong Yuan.
+\newblock A2j: Anchor-to-joint regression network for 3d articulated pose
+  estimation from a single depth image.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on
+  Computer Vision}, pages 793--802, 2019.
+
+\bibitem{yang2022dynamic}
+John Yang, Yash Bhalgat, Simyung Chang, Fatih Porikli, and Nojun Kwak.
+\newblock Dynamic iterative refinement for efficient 3d hand pose estimation.
+\newblock In {\em Proceedings of the IEEE/CVF Winter Conference on Applications
+  of Computer Vision}, pages 1869--1879, 2022.
+
+\bibitem{yuan20193d}
+Shanxin Yuan, Bjorn Stenger, and Tae-Kyun Kim.
+\newblock 3d hand pose estimation from rgb using privileged learning with depth
+  data.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on
+  Computer Vision Workshops}, pages 0--0, 2019.
+
+\bibitem{zhang2021non}
+Guodong Zhang, Jing-Hao Xue, Pengwei Xie, Sifan Yang, and Guijin Wang.
+\newblock Non-local aggregation for rgb-d semantic segmentation.
+\newblock {\em IEEE Signal Processing Letters}, 28:658--662, 2021.
+
+\bibitem{zhang2021single}
+Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, and Feng Xu.
+\newblock Single depth view based real-time reconstruction of hand-object
+  interactions.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 40(3):1--12, 2021.
+
+\bibitem{zhou2018voxelnet}
+Yin Zhou and Oncel Tuzel.
+\newblock Voxelnet: End-to-end learning for point cloud based 3d object
+  detection.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4490--4499, 2018.
+
+\bibitem{zimmermann2017learning}
+Christian Zimmermann and Thomas Brox.
+\newblock Learning to estimate 3d hand pose from single rgb images.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 4903--4911, 2017.
+
+\end{thebibliography}

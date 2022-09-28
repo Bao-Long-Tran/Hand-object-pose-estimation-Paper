@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: cvpr.aux
+The style file: ieee_fullname.bst
+Database file #1: egbib.bib
+Warning--I didn't find a database entry for "qi2017pointnet"
+You've used 53 entries,
+            2120 wiz_defined-function locations,
+            769 strings with 14716 characters,
+and the built_in function-call counts, 25018 in all, are:
+= -- 2513
+> -- 1208
+< -- 35
++ -- 475
+- -- 420
+* -- 1689
+:= -- 3758
+add.period$ -- 169
+call.type$ -- 53
+change.case$ -- 369
+chr.to.int$ -- 0
+cite$ -- 53
+duplicate$ -- 1028
+empty$ -- 1888
+format.name$ -- 420
+if$ -- 5504
+int.to.chr$ -- 0
+int.to.str$ -- 53
+missing$ -- 53
+newline$ -- 268
+num.names$ -- 106
+pop$ -- 454
+preamble$ -- 1
+purify$ -- 316
+quote$ -- 0
+skip$ -- 866
+stack$ -- 0
+substring$ -- 1765
+swap$ -- 437
+text.length$ -- 35
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 212
+warning$ -- 0
+while$ -- 228
+width$ -- 55
+write$ -- 587
+(There was 1 warning)

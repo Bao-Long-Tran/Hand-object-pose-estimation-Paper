@@ -1,0 +1,83 @@
+% This version of CVPR template is provided by Ming-Ming Cheng.
+% Please leave an issue if you found a bug:
+% https://github.com/MCG-NKU/CVPR_Template.
+
+\documentclass[review]{cvpr}
+%\documentclass[final]{cvpr}
+
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+%\usepackage[ruled,noend,linesnumbered]{algorithm2e}
+\usepackage{graphicx,color,psfrag}
+\usepackage{amsfonts}
+\usepackage{bigdelim}
+\usepackage{dsfont}
+\usepackage{color, soul}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{cite}
+
+% Include other packages here, before hyperref.
+
+% If you comment hyperref and then uncomment it, you should delete
+% egpaper.aux before re-running latex.  (Or just hit 'q' on the first latex
+% run, let it finish, and you should be clear).
+\usepackage[pagebackref=true,breaklinks=true,colorlinks,bookmarks=false]{hyperref}
+
+
+\def\cvprPaperID{} % *** Enter the CVPR Paper ID here
+\def\confYear{CVPR 2023}
+%\setcounter{page}{4321} % For final version only
+
+
+\begin{document}
+
+%%%%%%%%% TITLE
+\title{Hand-Object Pose Estimation from RGBD Images}
+
+\author{First Author\\
+Institution1\\
+Institution1 address\\
+{\tt\small firstauthor@i1.org}
+% For a paper whose authors are all at the same institution,
+% omit the following lines up until the closing ``}''.
+% Additional authors and addresses can be added with ``\and'',
+% just like the second author.
+% To save space, use either the email address or home page, not both
+\and
+Second Author\\
+Institution2\\
+First line of institution2 address\\
+{\tt\small secondauthor@i2.org}
+}
+
+\maketitle
+
+
+%%%%%%%%% ABSTRACT
+\begin{abstract}
+Hand-object pose estimation aims to predict the pose and shape of both of the hand and held object under interaction. Although having numerous applications in the real world such as augmented and virtual reality, hand-object pose estimation concerns relatively less attention. Several methods separately estimate hand shapes and object poses but totally neglecting the correlations between hands and objects. In this work, we propose an approach that leveraging the advantage of voting mechanism to jointly learn the appearance of hand and object from RGB-D images. Our method effectively collaborates RGB and Depth features by sharing and fusing them at pixel level during the extraction process. The output features discriminate the differently meaningful distribution between color and depth information at each position to generate discriminative representations of RGB-D input. Moreover, we introduce a network to collaboratively learn voting vectors for both of the hand and object appearances to estimate their poses. This facilitates our network to examine their constrains and interactions to produce accurate outcomes. Experiments using benchmark datasets illustrate that our network achieves beyond state-of-the-art accuracy in 3D pose estimation.
+\end{abstract}
+
+%%%%%%%%% BODY TEXT
+
+%
+\input{Introduction}
+%
+\input{RelatedWork}
+%
+\input{Method}
+%
+
+%
+{\small
+\bibliographystyle{ieee_fullname}
+\bibliography{egbib}
+}
+
+\end{document}
