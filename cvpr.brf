@@ -28,5 +28,6 @@
 \backcite {hough1959machine, duda1972textordfeminineuse}{{3}{2.3}{subsection.2.3}}
 \backcite {silberberg1984iterative, tombari2010object}{{3}{2.3}{subsection.2.3}}
 \backcite {ding2019votenet, kehl2016deep, wu2021vote, hoang2022voting}{{3}{2.3}{subsection.2.3}}
-\backcite {qi2017pointnet}{{3}{3.1}{subsection.3.1}}
-\backcite {qi2017pointnet++}{{3}{3.1}{subsection.3.1}}
+\backcite {qi2017pointnet}{{3}{3.1}{figure.caption.3}}
+\backcite {qi2017pointnet++}{{3}{3.1}{figure.caption.3}}
+\backcite {romero2022embodied}{{3}{3.2}{subsection.3.2}}

@@ -207,6 +207,11 @@ Charles~Ruizhongtai Qi, Li Yi, Hao Su, and Leonidas~J Guibas.
   metric space.
 \newblock {\em Advances in neural information processing systems}, 30, 2017.
 
+\bibitem{romero2022embodied}
+Javier Romero, Dimitrios Tzionas, and Michael~J Black.
+\newblock Embodied hands: Modeling and capturing hands and bodies together.
+\newblock {\em arXiv preprint arXiv:2201.02610}, 2022.
+
 \bibitem{saadi2021optimizing}
 Lounes Saadi, Bassem Besbes, Sebastien Kramm, and Abdelaziz Bensrhair.
 \newblock Optimizing rgb-d fusion for accurate 6dof pose estimation.
