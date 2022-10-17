@@ -3,46 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: cvpr.aux
 The style file: ieee_fullname.bst
 Database file #1: egbib.bib
-Warning--I didn't find a database entry for "qi2017pointnet"
-You've used 54 entries,
+You've used 49 entries,
             2120 wiz_defined-function locations,
-            773 strings with 14887 characters,
-and the built_in function-call counts, 25289 in all, are:
-= -- 2538
-> -- 1226
-< -- 35
-+ -- 482
-- -- 426
-* -- 1706
-:= -- 3809
-add.period$ -- 172
-call.type$ -- 54
-change.case$ -- 375
+            742 strings with 13843 characters,
+and the built_in function-call counts, 23293 in all, are:
+= -- 2325
+> -- 1152
+< -- 32
++ -- 452
+- -- 402
+* -- 1584
+:= -- 3509
+add.period$ -- 154
+call.type$ -- 49
+change.case$ -- 348
 chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 1038
-empty$ -- 1905
-format.name$ -- 426
-if$ -- 5557
+cite$ -- 49
+duplicate$ -- 948
+empty$ -- 1741
+format.name$ -- 402
+if$ -- 5107
 int.to.chr$ -- 0
-int.to.str$ -- 54
-missing$ -- 54
-newline$ -- 273
-num.names$ -- 108
-pop$ -- 460
+int.to.str$ -- 49
+missing$ -- 49
+newline$ -- 248
+num.names$ -- 98
+pop$ -- 426
 preamble$ -- 1
-purify$ -- 321
+purify$ -- 299
 quote$ -- 0
-skip$ -- 873
+skip$ -- 803
 stack$ -- 0
-substring$ -- 1770
-swap$ -- 438
-text.length$ -- 35
+substring$ -- 1635
+swap$ -- 403
+text.length$ -- 32
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 216
+type$ -- 196
 warning$ -- 0
-while$ -- 230
-width$ -- 56
-write$ -- 597
-(There was 1 warning)
+while$ -- 209
+width$ -- 51
+write$ -- 540

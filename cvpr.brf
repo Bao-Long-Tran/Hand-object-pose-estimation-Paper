@@ -1,33 +1,32 @@
 \backcite {cai20203d, zimmermann2017learning, gao2019variational, xiang2017posecnn, tremblay2018deep}{{1}{1}{section.1}}
 \backcite {oberweger2017deepprior++, moon2018v2v, xiong2019a2j, ge20173d, cai2022ove6d, li2020category}{{1}{1}{section.1}}
 \backcite {kazakos2018fusion, yuan20193d}{{1}{1}{section.1}}
-\backcite {hasson2019learning, hasson2020leveraging, tekin2019h+, tse2022collaborative, liu2021semi, oikonomidis2011full, lu2021understanding, hasson2021towards, wang2020learning}{{1}{1}{figure.caption.1}}
-\backcite {choi2017robust, zhang2021single, goudie20173d, oberweger2019generalized}{{1}{1}{figure.caption.1}}
+\backcite {hasson2019learning, hasson2020leveraging, tekin2019h+, tse2022collaborative, liu2021semi, oikonomidis2011full, lu2021understanding, hasson2021towards, wang2020learning}{{2}{1}{figure.caption.1}}
+\backcite {choi2017robust, zhang2021single, goudie20173d, oberweger2019generalized}{{2}{1}{figure.caption.1}}
 \backcite {kyriazis2013physically, tsoli2018joint}{{2}{1}{figure.caption.1}}
-\backcite {qi2017pointnet++}{{2}{1}{figure.caption.1}}
-\backcite {ding2019votenet}{{2}{1}{figure.caption.1}}
 \backcite {wang2019densefusion}{{2}{1}{figure.caption.1}}
-\backcite {ding2019votenet, wu2021vote, hoang2022voting}{{2}{1}{figure.caption.1}}
 \backcite {yang2022dynamic, madadi2017end, deng2017hand3d, oberweger2017deepprior++, iqbal2018hand}{{2}{2.1}{subsection.2.1}}
 \backcite {wang2019densefusion, schwarz2015rgb, qi2018frustum, zhou2018voxelnet}{{2}{2.1}{subsection.2.1}}
-\backcite {doosti2020hope}{{2}{2.1}{subsection.2.1}}
-\backcite {tse2022collaborative}{{2}{2.1}{subsection.2.1}}
 \backcite {hasson2020leveraging}{{2}{2.1}{subsection.2.1}}
 \backcite {tekin2019h+}{{2}{2.1}{subsection.2.1}}
 \backcite {liu2021semi}{{2}{2.1}{subsection.2.1}}
 \backcite {choi2017robust}{{2}{2.1}{subsection.2.1}}
 \backcite {zhang2021single, goudie20173d}{{2}{2.1}{subsection.2.1}}
 \backcite {oberweger2019generalized}{{2}{2.1}{subsection.2.1}}
-\backcite {kyriazis2013physically}{{2}{2.1}{subsection.2.1}}
-\backcite {tsoli2018joint}{{2}{2.1}{subsection.2.1}}
+\backcite {kyriazis2013physically}{{3}{2.1}{subsection.2.1}}
+\backcite {tsoli2018joint}{{3}{2.1}{subsection.2.1}}
 \backcite {chen2021global, chen2020bi, park2017rdfnet, zhang2021non}{{3}{2.2}{subsection.2.2}}
 \backcite {wang2019densefusion, tian2020robust, saadi2021optimizing}{{3}{2.2}{subsection.2.2}}
 \backcite {wang2021brief}{{3}{2.2}{subsection.2.2}}
 \backcite {wang2019densefusion}{{3}{2.2}{subsection.2.2}}
 \backcite {qi2017pointnet++}{{3}{2.2}{subsection.2.2}}
-\backcite {hough1959machine, duda1972textordfeminineuse}{{3}{2.3}{subsection.2.3}}
-\backcite {silberberg1984iterative, tombari2010object}{{3}{2.3}{subsection.2.3}}
-\backcite {ding2019votenet, kehl2016deep, wu2021vote, hoang2022voting}{{3}{2.3}{subsection.2.3}}
-\backcite {qi2017pointnet}{{3}{3.1}{figure.caption.3}}
-\backcite {qi2017pointnet++}{{3}{3.1}{figure.caption.3}}
-\backcite {romero2022embodied}{{3}{3.2}{subsection.3.2}}
+\backcite {kong2020sia}{{3}{2.3}{subsection.2.3}}
+\backcite {doosti2020hope}{{3}{2.3}{subsection.2.3}}
+\backcite {almadani2021graph}{{3}{2.3}{subsection.2.3}}
+\backcite {tse2022collaborative}{{3}{2.3}{subsection.2.3}}
+\backcite {wang2019densefusion}{{4}{3}{figure.caption.3}}
+\backcite {wang2019densefusion}{{4}{3.1}{figure.caption.3}}
+\backcite {qi2017pointnet}{{4}{3.1}{figure.caption.3}}
+\backcite {qi2017pointnet++}{{4}{3.1}{figure.caption.3}}
+\backcite {romero2022embodied}{{4}{3.2}{subsection.3.2}}
+\backcite {kong2020sia, doosti2020hope}{{4}{3.2}{equation.3.2}}

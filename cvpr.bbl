@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}\itemsep=-1pt
 
+\bibitem{almadani2021graph}
+Murad Almadani, Ahmed Elhayek, Jameel Malik, and Didier Stricker.
+\newblock Graph-based hand-object meshes and poses reconstruction with
+  multi-modal input.
+\newblock {\em IEEE Access}, 9:136438--136447, 2021.
+
 \bibitem{cai2022ove6d}
 Dingding Cai, Janne Heikkil{\"a}, and Esa Rahtu.
 \newblock Ove6d: Object viewpoint encoding for depth-based 6d object pose
@@ -39,24 +45,11 @@ Xiaoming Deng, Shuo Yang, Yinda Zhang, Ping Tan, Liang Chang, and Hongan Wang.
 \newblock Hand3d: Hand pose estimation using 3d neural network.
 \newblock {\em arXiv preprint arXiv:1704.02224}, 2017.
 
-\bibitem{ding2019votenet}
-Zhipeng Ding, Xu Han, and Marc Niethammer.
-\newblock Votenet: A deep learning label fusion method for multi-atlas
-  segmentation.
-\newblock In {\em International Conference on Medical Image Computing and
-  Computer-Assisted Intervention}, pages 202--210. Springer, 2019.
-
 \bibitem{doosti2020hope}
 Bardia Doosti, Shujon Naha, Majid Mirbagheri, and David~J Crandall.
 \newblock Hope-net: A graph-based model for hand-object pose estimation.
 \newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
   pattern recognition}, pages 6608--6617, 2020.
-
-\bibitem{duda1972textordfeminineuse}
-RO Duda and PE Hart.
-\newblock {\textordfeminine}use of the hough transform to detect lines and
-  curves in pictures, {\textordmasculine} comm.
-\newblock {\em ACM}, 1972.
 
 \bibitem{gao2019variational}
 Yafei Gao, Yida Wang, Pietro Falco, Nassir Navab, and Federico Tombari.
@@ -99,18 +92,6 @@ Yana Hasson, Gul Varol, Dimitrios Tzionas, Igor Kalevatykh, Michael~J Black,
 \newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
   pattern recognition}, pages 11807--11816, 2019.
 
-\bibitem{hoang2022voting}
-Dinh-Cuong Hoang, Johannes~A Stork, and Todor Stoyanov.
-\newblock Voting and attention-based pose relation learning for object pose
-  estimation from 3d point clouds.
-\newblock {\em IEEE Robotics and Automation Letters}, 7(4):8980--8987, 2022.
-
-\bibitem{hough1959machine}
-Paul~VC Hough.
-\newblock Machine analysis of bubble chamber pictures.
-\newblock In {\em Proc. of the International Conference on High Energy
-  Accelerators and Instrumentation, Sept. 1959}, pages 554--556, 1959.
-
 \bibitem{iqbal2018hand}
 Umar Iqbal, Pavlo Molchanov, Thomas Breuel~Juergen Gall, and Jan Kautz.
 \newblock Hand pose estimation via latent 2.5 d heatmap regression.
@@ -123,13 +104,11 @@ Evangelos Kazakos, Christophoros Nikou, and Ioannis~A Kakadiaris.
 \newblock In {\em 2018 25th IEEE International Conference on Image Processing
   (ICIP)}, pages 868--872. IEEE, 2018.
 
-\bibitem{kehl2016deep}
-Wadim Kehl, Fausto Milletari, Federico Tombari, Slobodan Ilic, and Nassir
-  Navab.
-\newblock Deep learning of local rgb-d patches for 3d object detection and 6d
-  pose estimation.
-\newblock In {\em European conference on computer vision}, pages 205--220.
-  Springer, 2016.
+\bibitem{kong2020sia}
+Deying Kong, Haoyu Ma, and Xiaohui Xie.
+\newblock Sia-gcn: A spatial information aware graph neural network with 2d
+  convolutions for hand pose estimation.
+\newblock {\em arXiv preprint arXiv:2009.12473}, 2020.
 
 \bibitem{kyriazis2013physically}
 Nikolaos Kyriazis and Antonis Argyros.
@@ -201,6 +180,13 @@ Charles~R Qi, Wei Liu, Chenxia Wu, Hao Su, and Leonidas~J Guibas.
 \newblock In {\em Proceedings of the IEEE conference on computer vision and
   pattern recognition}, pages 918--927, 2018.
 
+\bibitem{qi2017pointnet}
+Charles~R Qi, Hao Su, Kaichun Mo, and Leonidas~J Guibas.
+\newblock Pointnet: Deep learning on point sets for 3d classification and
+  segmentation.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 652--660, 2017.
+
 \bibitem{qi2017pointnet++}
 Charles~Ruizhongtai Qi, Li Yi, Hao Su, and Leonidas~J Guibas.
 \newblock Pointnet++: Deep hierarchical feature learning on point sets in a
@@ -224,12 +210,6 @@ Max Schwarz, Hannes Schulz, and Sven Behnke.
 \newblock In {\em 2015 IEEE international conference on robotics and automation
   (ICRA)}, pages 1329--1335. IEEE, 2015.
 
-\bibitem{silberberg1984iterative}
-Teresa~M Silberberg, Larry Davis, and David Harwood.
-\newblock An iterative hough procedure for three-dimensional object
-  recognition.
-\newblock {\em Pattern Recognition}, 17(6):621--629, 1984.
-
 \bibitem{tekin2019h+}
 Bugra Tekin, Federica Bogo, and Marc Pollefeys.
 \newblock H+ o: Unified egocentric recognition of 3d hand-object poses and
@@ -242,13 +222,6 @@ Meng Tian, Liang Pan, Marcelo~H Ang, and Gim~Hee Lee.
 \newblock Robust 6d object pose estimation by learning rgb-d features.
 \newblock In {\em 2020 IEEE International Conference on Robotics and Automation
   (ICRA)}, pages 6218--6224. IEEE, 2020.
-
-\bibitem{tombari2010object}
-Federico Tombari and Luigi Di~Stefano.
-\newblock Object recognition in 3d scenes with occlusions and clutter by hough
-  voting.
-\newblock In {\em 2010 Fourth Pacific-Rim Symposium on Image and Video
-  Technology}, pages 349--355. IEEE, 2010.
 
 \bibitem{tremblay2018deep}
 Jonathan Tremblay, Thang To, Balakumar Sundaralingam, Yu Xiang, Dieter Fox, and
@@ -288,12 +261,6 @@ Tiancai Wang, Tong Yang, Martin Danelljan, Fahad~Shahbaz Khan, Xiangyu Zhang,
 \newblock Learning human-object interaction detection using interaction points.
 \newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
   Pattern Recognition}, pages 4116--4125, 2020.
-
-\bibitem{wu2021vote}
-Yangzheng Wu, Mohsen Zand, Ali Etemad, and Michael Greenspan.
-\newblock Vote from the center: 6 dof pose estimation in rgb-d images by radial
-  keypoint voting.
-\newblock {\em arXiv preprint arXiv:2104.02527}, 2021.
 
 \bibitem{xiang2017posecnn}
 Yu Xiang, Tanner Schmidt, Venkatraman Narayanan, and Dieter Fox.
